@@ -165,7 +165,7 @@ Used-Car-Price-Predictor/
 ## Running the Project
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/vibhav-gupta-1989/Used-Car-Price-Predictor.git
 cd Used-Car-Price-Predictor
 pip install numpy pandas matplotlib scikit-learn scipy kagglehub jupyter
 jupyter notebook
